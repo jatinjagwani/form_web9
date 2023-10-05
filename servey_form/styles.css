@@ -1,5 +1,5 @@
 body{
-    width:100%;
+    width:99%;
     height:100vh;
     margin:0 0 0 0;
     background-color:black;
@@ -10,7 +10,7 @@ body{
   #container{
     width:110vh;
     min-width:300px;
-    max-width:650px;
+    max-width:645px;
     margin:0 auto;
     background-color:rgb(69, 60, 60);
     padding-bottom:3vh;
@@ -34,7 +34,7 @@ body{
     padding:1rem;
   }
   label{
-    display:block;
+    display:flex;
     margin:0.5rem 0;
   }
   
@@ -51,7 +51,7 @@ body{
   input[type="submit"]{
     color:white;
     width:50%;
-    font-size:1.2rem;
+    font-size:1.3rem;
   }
   input#submit{
     margin: 0 162px 0 162px ;
