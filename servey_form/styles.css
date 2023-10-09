@@ -40,7 +40,7 @@ body{
   
   .inline{
     width:unset;
-    margin:0 0.5rem 0 0;
+    margin:1 0.5rem 0 0;
     vertical-align: middle;
   }
   .checkbox{
@@ -50,7 +50,7 @@ body{
   }
   input[type="submit"]{
     color:white;
-    width:50%;
+    width:60%;
     font-size:1.3rem;
   }
   input#submit{
